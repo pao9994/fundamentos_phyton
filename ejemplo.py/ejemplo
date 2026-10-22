@@ -1,0 +1,4 @@
+severity = "error"
+
+if severity =="ERROR":
+    print("se encontro un error")
